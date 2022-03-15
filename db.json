@@ -1,0 +1,90 @@
+{
+  "repairs": [
+    {
+      "id": 1,
+      "title": "Ремонт №1",
+      "repair_type": 1,
+      "address":"Нур-Султан, ул. Академика,40",
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Consectetur reprehenderit delectus quae neque, officia hic! Dignissimos necessitatibus deserunt praesentium odit aliquid autem corrupti voluptas nihil harum tenetur, voluptate dolorem consequatur.",
+      "images": [{ "src": "test.jpg" }, { "src": "test2.jpg" }]
+    },
+    {
+      "id": 2,
+      "title": "Ремонт №2",
+      "repair_type": 1,
+      "address":"Нур-Султан, ул. Академика,41",
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Consectetur reprehenderit delectus quae neque, officia hic! Dignissimos necessitatibus deserunt praesentium odit aliquid autem corrupti voluptas nihil harum tenetur, voluptate dolorem consequatur.",
+      "images": [{ "src": "test.jpg" }, { "src": "test2.jpg" }]
+    },
+    {
+      "id": 3,
+      "title": "Ремонт №3",
+      "repair_type": 2,
+      "address":"Нур-Султан, ул. Академика,42",
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Consectetur reprehenderit delectus quae neque, officia hic! Dignissimos necessitatibus deserunt praesentium odit aliquid autem corrupti voluptas nihil harum tenetur, voluptate dolorem consequatur.",
+      "images": [{ "src": "test.jpg" }, { "src": "test2.jpg" }]
+    },
+    {
+      "id": 4,
+      "title": "Ремонт №4",
+      "repair_type": 2,
+      "address":"Нур-Султан, ул. Академика,43",
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Consectetur reprehenderit delectus quae neque, officia hic! Dignissimos necessitatibus deserunt praesentium odit aliquid autem corrupti voluptas nihil harum tenetur, voluptate dolorem consequatur.",
+      "images": [{ "src": "test.jpg" }, { "src": "test2.jpg" }]
+    },
+    {
+      "id": 5,
+      "title": "Ремонт №5",
+      "repair_type": 3,
+      "address":"Нур-Султан, ул. Академика,44",
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Consectetur reprehenderit delectus quae neque, officia hic! Dignissimos necessitatibus deserunt praesentium odit aliquid autem corrupti voluptas nihil harum tenetur, voluptate dolorem consequatur.",
+      "images": [{ "src": "test.jpg" }, { "src": "test2.jpg" }]
+    },
+    {
+      "id": 6,
+      "title": "Ремонт №6",
+      "repair_type": 3,
+      "address":"Нур-Султан, ул. Академика,45",
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Consectetur reprehenderit delectus quae neque, officia hic! Dignissimos necessitatibus deserunt praesentium odit aliquid autem corrupti voluptas nihil harum tenetur, voluptate dolorem consequatur.",
+      "images": [{ "src": "test.jpg" }, { "src": "test2.jpg" }]
+    },
+    {
+      "id": 7,
+      "title": "Ремонт №7",
+      "repair_type": 4,
+      "address":"Нур-Султан, ул. Академика,46",
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Consectetur reprehenderit delectus quae neque, officia hic! Dignissimos necessitatibus deserunt praesentium odit aliquid autem corrupti voluptas nihil harum tenetur, voluptate dolorem consequatur.",
+      "images": [{ "src": "test.jpg" }, { "src": "test2.jpg" }]
+    },
+    {
+      "id": 8,
+      "title": "Ремонт №8",
+      "repair_type": 5,
+      "address":"Нур-Султан, ул. Академика,47",
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Consectetur reprehenderit delectus quae neque, officia hic! Dignissimos necessitatibus deserunt praesentium odit aliquid autem corrupti voluptas nihil harum tenetur, voluptate dolorem consequatur.",
+      "images": [{ "src": "test.jpg" }, { "src": "test2.jpg" }]
+    }
+  ],
+  "repair_type": [
+    {
+      "id": 1,
+      "name": "Плохой"
+    },
+    {
+      "id": 2,
+      "name": "Неплохой"
+    },
+    {
+      "id": 3,
+      "name": "Совсем неплохой"
+    },
+    {
+      "id": 4,
+      "name": "Отличный"
+    },
+    {
+      "id": 5,
+      "name": "BI Group"
+    }
+  ]
+}
